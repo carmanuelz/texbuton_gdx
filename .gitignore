@@ -1,0 +1,4 @@
+# -- basic------
+basic/bin/*
+basic-android/bin/*
+basic-desktop/bin/*
